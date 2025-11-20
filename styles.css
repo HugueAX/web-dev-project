@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background: green;
+}
+nav {
+    float: left;
+}
+section {
+    float: right;
+}
