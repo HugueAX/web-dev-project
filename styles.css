@@ -2,9 +2,15 @@ body {
     text-align: center;
     background: green;
 }
-nav {
-    float: left;
-}
 section {
     float: right;
+}
+nav {
+    display: flex;
+    border: 1px black;
+    padding: 5px
+}
+nav li {
+   padding: 10px;
+   border: 1px blue solid;
 }
