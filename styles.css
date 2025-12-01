@@ -1,11 +1,14 @@
 nav {
     display: flex;
+    background-color: blue;
     border: 1px black;
     padding: 5px
 }
-nav li {
-   padding: 10px;
-   border: 1px blue solid;
+nav ul {
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    border: 1px blue solid;
 }
 body {
     text-align: center;
@@ -15,3 +18,4 @@ section {
     display: flex;
     float: right;
 }
+
