@@ -18,6 +18,13 @@ h1 {
     border-top: 1px solid #4F9437;
 }
 
+hr {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #4F9437;
+}
+
 h2 {
     margin-top: 10px;
     margin-bottom: 20px;
@@ -127,3 +134,4 @@ footer {
         margin: 0 auto;
     }
 }
+
