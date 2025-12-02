@@ -2,23 +2,13 @@ body {
     font-size: 18px;
 }
 
-.main-wrap {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    justify-content: space-between;
-}
-
-.nav-wrap {
-    background-color: #4F9437;
-    border: 2px solid black;
-}
-
 nav {
     max-width: 960px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
+    background-color: #4F9437;
+    border: 2px solid black;
 }
 
 h1 {
@@ -47,6 +37,10 @@ main {
     background-color: white;
     border: #ADADAD;
     padding: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between;
 }
 
 section.portarit{
