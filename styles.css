@@ -25,7 +25,7 @@ h1 {
     margin-top: 10px;
     margin-bottom: 20px;
     border: 0;
-    border-top: 1px solid black;
+    border-top: 1px solid #4F9437;
 }
 
 nav li{
@@ -34,9 +34,66 @@ nav li{
 
 nav li a {
     text-decoration: none;
-    color: black;
+    color: #24047C;
 }
 
 nav li a:hover {
+    color: white;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: white;
+    border: #ADADAD;
+    padding: 20px 30px;
+}
+
+section.portarit{
+    float: left;
+    padding-right: 20px;
+}
+
+p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+    line-height: 1.5em;
+}
+
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+input, textarea {
+    font-size: 0.89em;
+    width: 100%;
+    border: 1px solid #ccc;
+}
+
+input {
+    box-sizing: border-box;
+    margin: 10px 0px;
+    padding: 10px;
+}
+
+form input[type=submit] {
+    background-color: #4F9437;
+    border: none;
+    color: white;
+    margin-top: 10px;
+    font-size: 1.2rem;
+    padding: 15px;
+    width: 200px;
+}
+
+footer {
+    width: 100px;
+    padding: 25px 0px;
+    text-align: center;
+    background-color: black;
+    border-top: 8px solid #4F9437;
     color: white;
 }
