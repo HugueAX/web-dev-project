@@ -110,9 +110,12 @@ main {
     justify-content: space-between;
 }
 
-section.portarit{
-    float: left;
-    padding-right: 20px;
+.portrait {
+  margin: auto;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
 }
 
 p {
@@ -195,6 +198,7 @@ footer {
         margin: 0 auto;
     }
 }
+
 
 
 
