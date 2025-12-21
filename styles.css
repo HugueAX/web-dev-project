@@ -59,12 +59,14 @@ h1 {
     margin-top: 10px;
     margin-bottom: 20px;
     border: 0;
+    border-top: 1px solid #4F9437;
 }
 
 hr {
     margin-top: 10px;
     margin-bottom: 20px;
     border: 0;
+    border-top: 1px solid #4F9437;
 }
 
 h2 {
@@ -183,6 +185,7 @@ footer {
         margin: 0 auto;
     }
 }
+
 
 
 
