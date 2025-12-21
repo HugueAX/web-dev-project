@@ -29,7 +29,7 @@ body {
 #logo {
   display: inline-block;
   margin: 15px; 
-  float: left;
+  float: right;
   height: 60px;
   width: auto; 
   border-radius: 50%; 
@@ -195,6 +195,7 @@ footer {
         margin: 0 auto;
     }
 }
+
 
 
 
