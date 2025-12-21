@@ -115,7 +115,7 @@ main {
   width: 50%;
   display: flex;
   justify-content: center;
-  padding-bottom: 50px;
+  padding-bottom: 50%;
 }
 
 p {
@@ -198,6 +198,7 @@ footer {
         margin: 0 auto;
     }
 }
+
 
 
 
