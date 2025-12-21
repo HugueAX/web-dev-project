@@ -27,11 +27,11 @@ body {
 }
 
 #logo {
-  display: block;
+  display: inline-block;
   margin: 15px; 
   float: left;
   height: 60px;
-  width: 60px; 
+  width: auto; 
   border-radius: 50%; 
 }
 
@@ -195,6 +195,7 @@ footer {
         margin: 0 auto;
     }
 }
+
 
 
 
