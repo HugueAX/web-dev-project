@@ -26,6 +26,15 @@ body {
   color: white;
 }
 
+#logo {
+  display: inline-block;
+  margin: 15px; 
+  float: left;
+  height: 60px;
+  width: auto; 
+  border-radius: 50%; 
+}
+
 .hero-container {
     position: relative; 
     text-align: center;
@@ -186,6 +195,7 @@ footer {
         margin: 0 auto;
     }
 }
+
 
 
 
