@@ -112,8 +112,8 @@ main {
 
 .portrait {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  width: 100%;
 }
 
 p {
@@ -196,6 +196,7 @@ footer {
         margin: 0 auto;
     }
 }
+
 
 
 
