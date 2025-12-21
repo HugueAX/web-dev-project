@@ -111,12 +111,9 @@ main {
 }
 
 .portrait {
-  margin: auto;
-  width: 50%;
-  display: flex;
-  justify-content: center;
-  padding-bottom: 50%;
-  border: 1px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p {
@@ -199,6 +196,7 @@ footer {
         margin: 0 auto;
     }
 }
+
 
 
 
