@@ -27,31 +27,32 @@ body {
 }
 
 .hero-container {
-  position: relative; 
-  text-align: center;
-  color: white;
+    position: relative; 
+    text-align: center;
+    color: white;
 }
 
 .hero-image {
-  width: 100%; 
-  height: auto; 
-  object-fit: cover; 
+    width: 100%; 
+    height: auto; 
+    object-fit: cover; 
 }
 
 .hero-text {
-  position: absolute; 
-  top: 50%; 
-  left: 50%;
-  transform: translate(-50%, -50%); 
+    position: absolute; 
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
 }
 
 .hero-button {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #000;
-  color: white;
-  text-decoration: none;
-  margin-top: 10px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #000;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
 }
 
 h1 {
@@ -184,5 +185,6 @@ footer {
         margin: 0 auto;
     }
 }
+
 
 
