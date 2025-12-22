@@ -45,19 +45,24 @@ body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("self portrait.png");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
+    background-size: cover; 
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%; 
-    height: auto; 
-    object-fit: cover; 
+    height: 100%; 
+    object-fit: cover;
 }
 .hero-text {
-    color: black;
-    position: absolute; 
+    color: #ededed;
+    position: relative;
     top: 50%; 
-    left: 50%;
+    left: 50%; 
+    z-index: 1;
     transform: translate(-50%, -50%);
     text-align: center;
+    padding: 20%;
 }
 
 .hero-button {
@@ -200,6 +205,7 @@ footer {
         margin: 0 auto;
     }
 }
+
 
 
 
