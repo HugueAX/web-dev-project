@@ -1,0 +1,16 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contactError</title>
+</head>
+<body>
+    <main>
+        <section>
+            <h1>Sorry!</h1>
+            <p>I don't have anywhere to send inquiries at the moment, but thanks for taking the time to reach out.</p>
+            <p>Check back later!</p>
+        </section>
+    </main>
+</body>
+</html>
